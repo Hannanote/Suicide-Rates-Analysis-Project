@@ -33,7 +33,7 @@ In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age gro
 
 ![plot_zoom_png](https://github.com/user-attachments/assets/42702720-9026-448d-8279-6a35d38cf86a)
 
-![image](https://github.com/user-attachments/assets/ee455a4b-49ce-42fb-ad72-0e58f944a91e)
+
 
 ![image](https://github.com/user-attachments/assets/7b3d020e-99da-4009-9d0e-8b8ce63d2f9e)
 
