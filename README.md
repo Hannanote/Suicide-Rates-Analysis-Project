@@ -13,3 +13,6 @@ The dataset contains 27,820 observations:
 8. Economic Growth 
 
 ![image](https://github.com/user-attachments/assets/bf66e519-e8cd-424f-afba-c77962eed0f2)
+
+![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca)
+
