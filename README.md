@@ -20,7 +20,7 @@ The dataset contains 27,820 observations:
 9. Economic Growth 
 
 ### Exploratory Analysis
-- [X] Global Average Suicide Rate by year (per 100K population) <br>
+- [X] Global Suicide Rate Trends by Year (per 100K Population) <br>
 
 In 1995, the global suicide rate reached its peak at 15.3 deaths per 100,000 people. Over the next two decades, the rate steadily declined, falling to 11.5 per 100,000 by 2015, representing a significant decrease of approximately 25%. However, recent trends suggest that suicide rates are returning to levels seen prior to the 1990s. Due to limited data from the 1980s, it remains challenging to determine whether the rates from that period accurately reflect the global population, complicating long-term trend analysis. <br>
 
@@ -30,7 +30,7 @@ Line Graph (R) <br>
 <br>
 <br>
 
-- [X] Suicide Rate with countries <br>
+- [X] Top Countries by Total Suicide Rates <br>
 The country with the highest total number of suicides is the Russian Federation, followed by the United States, Japan, France, Ukraine, Germany, South Korea, and Brazil. <br>
 
 <img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
@@ -38,7 +38,9 @@ Bar Graph (R) <br>
 
 <br>
 <br>
+<br>
 
+- [X] Suicide Rates by Age Group Across Countries <br>
 These visualizations also show the relationship between suicide rates and age across various countries. The data is grouped into six age categories (5-14 years, 15-24 years, 25-34 years, 35-54 years, 55-74 years, and 75+ years). There is a notable increase in suicide rates among the 15-34 age group in general, but each country exhibits different patterns regarding which age group has the highest rate. A few countries show particularly interesting trends: Russia has the highest suicide rates across all six age groups globally, while France and South Korea exhibit high rates in the 75+ age group. In New Zealand, suicide rates are especially high among individuals aged 15 to 27. While all of these countries are considered developed, this does not imply that developed countries universally have the highest suicide rates.<br>
 <br>
 <img src='https://github.com/user-attachments/assets/9e5a334b-3092-4f5f-b7e6-290c90840078' width='650px' height='300px'>
@@ -74,7 +76,7 @@ Mosaic Plots (Tableau) <br>
 <br>
 <br>
 
-- [X] Sex and Age Group
+- [X] Suicide Rates by Sex and Age Group
 
 The six 10x10 waffle charts in Tableau illustrate the ratio of suicide rates by sex and age group. Blue represents males and pink represents females, with each circle corresponding to 1% of the total. Additionally, a stacked bar graph shows the average suicide rates by sex and age group. Males consistently exhibit higher suicide rates, with the highest rate of 81.45% occurring in the 25-34 age group. Interestingly, females show higher suicide rates in the 75+ age group, possibly due to longer life expectancy. <br>
 
@@ -89,7 +91,11 @@ The line graph illustrates the global suicide rate per 100,000 population, broke
 
 <img src='https://github.com/user-attachments/assets/dfd5006b-839e-4f13-8b3d-28f2db954f0f' width='750px' height='400px'>
 Line Graph (Tableau) <br>
+<br>
+<br>
+<br>
 
+-[X] Generational Suicide Rates: A Comparison of Male and Female Trends <br>
 This bar graph shows the suicide rates per 100,000 people across different generations for both men and women. The red bars represent the female suicide rates by generation, while the green bars represent the male rates. Both genders exhibit similar trends in suicide rates across generations. The G.I. Generation has the highest suicide rate, while Generation Z shows the lowest.
 
 The G.I. Generation’s higher suicide rate can be attributed to the hardships they experienced, including living through the Great Depression and both World Wars, which likely contributed to long-term mental health challenges. On the other hand, Generation Z has the lowest suicide rate, possibly due to advancements in mental health awareness and resources, as well as early intervention strategies that may have helped reduce the risk of suicide among younger populations. However, it's important to note that Generation Z's data may also be incomplete, as they represent the youngest cohort in this analysis.<br>
