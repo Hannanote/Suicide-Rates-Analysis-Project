@@ -24,7 +24,7 @@ The dataset contains 27,820 observations:
 
 In 1995, the global suicide rate reached its peak at 15.3 deaths per 100,000 people. Over the next two decades, the rate steadily declined, falling to 11.5 per 100,000 by 2015, representing a significant decrease of approximately 25%. However, recent trends suggest that suicide rates are returning to levels seen prior to the 1990s. Due to limited data from the 1980s, it remains challenging to determine whether the rates from that period accurately reflect the global population, complicating long-term trend analysis. <br>
 
-<img src='https://github.com/user-attachments/assets/eba26e9b-b29f-49f3-af71-408178a8cd5f' width='500px' height='400px'>
+<img src='https://github.com/user-attachments/assets/eba26e9b-b29f-49f3-af71-408178a8cd5f' width='500px' height='400px'> <br>
 Line Graph (R) <br>
 <br>
 <br>
@@ -34,7 +34,7 @@ Line Graph (R) <br>
 
 The country with the highest total number of suicides is the Russian Federation, followed by the United States, Japan, France, Ukraine, Germany, South Korea, and Brazil. <br>
 
-<img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
+<img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'> <br>
 Bar Graph (R) <br>
 
 <br>
@@ -83,7 +83,7 @@ Mosaic Plots (Tableau) <br>
 The six 10x10 waffle charts in Tableau illustrate the ratio of suicide rates by sex and age group. Blue represents males and pink represents females, with each circle corresponding to 1% of the total. Additionally, a stacked bar graph shows the average suicide rates by sex and age group. Males consistently exhibit higher suicide rates, with the highest rate of 81.45% occurring in the 25-34 age group. Interestingly, females show higher suicide rates in the 75+ age group, possibly due to longer life expectancy. <br>
 
 ![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca) <br>
-<br>Waffle Charts and Bar Chart (Tableau) <br>
+Waffle Charts and Bar Chart (Tableau) <br>
 
 <br>
 <br>
