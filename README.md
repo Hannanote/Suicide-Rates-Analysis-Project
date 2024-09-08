@@ -45,7 +45,14 @@ These maps represent suicide rates with countries and age ranges. The relationsh
 <img src='https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='650px' height='300px'>
-<img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='300px'>
+<br>
+<br>
+The choropleth map represents the suicide rate per 100K population by over age, over 75 years old in Eurasia continent. The suicide rate of each country in Eurasia continent is calculated by taking the average suicide rate per 100K population of country from 1985 to 2014. Each country is filled with red color and the saturation of the color shows the suicide rate in Eurasia continent.  The darker intensity represents the higher suicide rate in that country. 
+
+It helps people understand the relationship between suicide rate and age, over 75 years old according to the choropleth map. After visualizing the suicide rate by 6 age group in the exploratory analysis, the over 75 years age group shows extreme high suicide rate in both male and female groups. The male, over 75 years age group, is the highest suicide rate all age group, but interesting point is the female, over 75 years age group. Compared to other female age groups, this is enormous increased in 1990s. I think it is a good way to check this relationship by geographically because the geographical position is included in various factors such as economics or climate. The choropleth map is easy to see the highest suicide rate all countries in Eurasia continent and see the pattern of the suicide rate in the map. The highest countries are Russia, France, Hungry, and South Korea. There is not a significant pattern of this map that these countries were different economic level, in order to there are included in both the developed countries and developing countries. And there are no clear patterns of climate factor.  <br>
+
+<img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='300px'> <br>
+
 ![image](https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1)
 
 <br>
@@ -58,7 +65,6 @@ It represents the suicide rate of different age groups in different countries in
 Mosaic Plots (Tableau) <br>
 
 <br>
-
 <br>
 <br>
 <br>
