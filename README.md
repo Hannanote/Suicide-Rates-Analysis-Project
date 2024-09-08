@@ -68,8 +68,15 @@ In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age gro
 <br>Waffle Charts and Bar Chart (Tableau) <br>
 
 
-![image](https://github.com/user-attachments/assets/bf66e519-e8cd-424f-afba-c77962eed0f2)
 
 
 ![gif](https://github.com/user-attachments/assets/7b3d020e-99da-4009-9d0e-8b8ce63d2f9e)
 
+
+### References 
+https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016/data
+
+World Health Organization. (2021). Suicide Worldwide in 2019: Global Health Estimates.
+Yang, C., Wang, W., Zhang, Y., Zhang, Z., Shen, L., Li, Y., & See, J. (2021). MLife: A Lite
+Framework for Machine Learning Lifecycle Initialization. Machine Learning, 110, 2993-
+3013.
