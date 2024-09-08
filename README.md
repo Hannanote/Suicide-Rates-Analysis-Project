@@ -31,8 +31,11 @@ The highest total number of suicides is the "Russian Federation". <br>
 
 <img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
 Bar Graph (R) <br>
- <br>
- ---
+
+<br>
+<br>
+
+***
 <img src='https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650' width='650px' height='300px'>
@@ -47,7 +50,7 @@ Bar Graph (R) <br>
 In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age group, with blue representing males and pink for females. Each chart uses circles (1% each) to indicate the ratio, with annotations for clarity. A stacked bar graph further illustrates average suicide rates by sex and age. The data shows consistently higher suicide rates for males, peaking 81.45% in the 25-34 age group, while females have higher rates in the over 75 group, potentially due to longer life expectancy.  <br>
 
 ![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca)
-                                                             Waffle Charts and Bar Chart (Tableau) <br>
+>>> Waffle Charts and Bar Chart (Tableau) <br>
 
 
 ![image](https://github.com/user-attachments/assets/bf66e519-e8cd-424f-afba-c77962eed0f2)
