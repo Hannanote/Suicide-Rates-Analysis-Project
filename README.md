@@ -41,6 +41,7 @@ Bar Graph (R) <br>
 <br>
 
 - [X] Suicide Rates by Age Group Across Countries <br>
+
 These visualizations also show the relationship between suicide rates and age across various countries. The data is grouped into six age categories (5-14 years, 15-24 years, 25-34 years, 35-54 years, 55-74 years, and 75+ years). There is a notable increase in suicide rates among the 15-34 age group in general, but each country exhibits different patterns regarding which age group has the highest rate. A few countries show particularly interesting trends: Russia has the highest suicide rates across all six age groups globally, while France and South Korea exhibit high rates in the 75+ age group. In New Zealand, suicide rates are especially high among individuals aged 15 to 27. While all of these countries are considered developed, this does not imply that developed countries universally have the highest suicide rates.<br>
 <br>
 <img src='https://github.com/user-attachments/assets/9e5a334b-3092-4f5f-b7e6-290c90840078' width='650px' height='300px'>
@@ -76,7 +77,7 @@ Mosaic Plots (Tableau) <br>
 <br>
 <br>
 
-- [X] Suicide Rates by Sex and Age Group
+- [X] Suicide Rates by Sex and Age Group <br>
 
 The six 10x10 waffle charts in Tableau illustrate the ratio of suicide rates by sex and age group. Blue represents males and pink represents females, with each circle corresponding to 1% of the total. Additionally, a stacked bar graph shows the average suicide rates by sex and age group. Males consistently exhibit higher suicide rates, with the highest rate of 81.45% occurring in the 25-34 age group. Interestingly, females show higher suicide rates in the 75+ age group, possibly due to longer life expectancy. <br>
 
