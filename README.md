@@ -31,6 +31,7 @@ The highest total number of suicides is the "Russian Federation". <br>
 
 <img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
 Bar Graph (R) <br>
+
 ![image](https://github.com/user-attachments/assets/fb790d31-60bd-4ef1-9078-61e303075d2e)
 Mosaic Plots (Tableau) <br>
 The mosaic plots show the suicide rate by age group in different countries, Bulgaria, France, Germany, Hungary, Japan, South Korea, Russia, and Ukraine from 1985 to 2014. There are 6 age groups shown with 6 different colors, which is 5-14 for blue color, 15-24 for orange color, 25-34 for sky blue color, 35-54 for red color, 55-74 for green color, and 75+ for yellow color. These age groups of a country use percentage total so that all groups divide up proportionally. To contrast the difference between age groups, 6 colors are placed opposite side of the color bar.
@@ -48,6 +49,7 @@ It represents the suicide rate of different age groups in different countries in
 <img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='650px' height='300px'>
 <br>
 These maps represent suicide rates with countries and age ranges. The relationship between suicide rates and age was examined in 6 age-bends 5-14 years, 15-24 years, 25-34 years, 35-54 years, 55-74 years and 75 + years.  There was a significant increase in suicide rates in 15-34 years generally, but all countries have the highest suicide rate in different age groups. There are few countries shown interesting patterns which is Russia, France, New Zealand, and South Korea. The Russia has the highest suicide rate all 6 age ranges around world. Both France and South Korea had high suicide rates in the 75+ age group. In New Zealand, there are high suicide rate between 15 and 27 years.  All these countries are included in the developed countries, but it does not mean the developed countries have the highest suicide rates around the world. 
+<br>
 <br>
 <br>
 
