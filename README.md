@@ -41,7 +41,7 @@ Bar Graph (R) <br>
 
 ![image](https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644) <br>
 
-<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='700px' height='300px'>
+<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='650px' height='300px'>
 
 - [] Sex and Age Group
    
