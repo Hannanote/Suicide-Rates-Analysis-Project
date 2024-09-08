@@ -85,11 +85,7 @@ Line Graph (Tableau) <br>
 <img src='https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895' width='750px' height='300px'> 
 Bar Graph (Tableau) <br>
 
-![Picture2](https://github.com/user-attachments/assets/cb2c33a3-403d-4d49-931a-10eabc34821c.gif)
 
-![Picture2](https://github.com/user-attachments/assets/ce2767a0-8e4e-4a0c-bde7-e0b857763a6b)
-
-<img src="https://user-images.githubusercontent.com/ce2767a0-8e4e-4a0c-bde7-e0b857763a6b.gif" width="200" />
 
 
 
