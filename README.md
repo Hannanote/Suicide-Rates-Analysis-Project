@@ -88,7 +88,7 @@ Bar Graph (Tableau) <br>
 
 
 
-![image](https://github.com/user-attachments/assets/7b3d020e-99da-4009-9d0e-8b8ce63d2f9e.gif)
+![image](https://github.com/user-attachments/assets/7b3d020e-99da-4009-9d0e-8b8ce63d2f9e)
 
 
 ### References 
