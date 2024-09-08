@@ -19,7 +19,7 @@ The dataset contains 27,820 observations:
 
 ### Exploratory Analysis
 
-- [ ] Global Average Suicide Rate by year (per 100K population) <br>
+- [X] Global Average Suicide Rate by year (per 100K population) <br>
 In 1995, the global suicide rate peaked at 15.3 deaths per 100,000 people. Over the next two devades, this rate steadily declinced, reaching 11.5 per 100,000 by 2015, marking a significant decrease of approximately 25%. However, recent trends suggest that suicide rates are now returning to levels observed before 1990s. Due to limited data from the 1980s, it remains difficult to determine whether the rates from that period were truly representative of the global population, complicating long-term trend analysis.
 ![c28b4417-91f0-47ec-a0ea-4ee10eb78591](https://github.com/user-attachments/assets/eba26e9b-b29f-49f3-af71-408178a8cd5f)
 Line Graph (R)
@@ -27,7 +27,19 @@ Line Graph (R)
 - [X] Suicide Rate with countries <br>
 The highest total number of suicides is the "Russian Federation".
 ![download](https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c)
-Bar Graph (R)
+Bar Graph (R) <br>
+![image](https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235)
+
+![image](https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057)
+
+![image](https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650)
+
+![image](https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed)
+
+![image](https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d)
+
+![image](https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644)
+<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='100' height='100/>
 
 - [] Sex and Age Group
    
