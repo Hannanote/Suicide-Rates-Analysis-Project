@@ -31,6 +31,7 @@ Line Graph (R) <br>
 <br>
 
 - [X] Top Countries by Total Suicide Rates <br>
+
 The country with the highest total number of suicides is the Russian Federation, followed by the United States, Japan, France, Ukraine, Germany, South Korea, and Brazil. <br>
 
 <img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
@@ -97,7 +98,8 @@ Line Graph (Tableau) <br>
 <br>
 
 -[X] Generational Suicide Rates: A Comparison of Male and Female Trends <br>
-This bar graph shows the suicide rates per 100,000 people across different generations for both men and women. The red bars represent the female suicide rates by generation, while the green bars represent the male rates. Both genders exhibit similar trends in suicide rates across generations. The G.I. Generation has the highest suicide rate, while Generation Z shows the lowest.
+
+This bar graph shows the suicide rates per 100,000 people across different generations for both men and women. The red bars represent the female suicide rates by generation, while the green bars represent the male rates. Both genders exhibit similar trends in suicide rates across generations. The G.I. Generation has the highest suicide rate, while Generation Z shows the lowest.<br>
 
 The G.I. Generation’s higher suicide rate can be attributed to the hardships they experienced, including living through the Great Depression and both World Wars, which likely contributed to long-term mental health challenges. On the other hand, Generation Z has the lowest suicide rate, possibly due to advancements in mental health awareness and resources, as well as early intervention strategies that may have helped reduce the risk of suicide among younger populations. However, it's important to note that Generation Z's data may also be incomplete, as they represent the youngest cohort in this analysis.<br>
 
