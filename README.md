@@ -22,13 +22,13 @@ The dataset contains 27,820 observations:
 - [X] Global Average Suicide Rate by year (per 100K population) <br>
 In 1995, the global suicide rate peaked at 15.3 deaths per 100,000 people. Over the next two devades, this rate steadily declinced, reaching 11.5 per 100,000 by 2015, marking a significant decrease of approximately 25%. However, recent trends suggest that suicide rates are now returning to levels observed before 1990s. Due to limited data from the 1980s, it remains difficult to determine whether the rates from that period were truly representative of the global population, complicating long-term trend analysis. <br>
 
-<img src='https://github.com/user-attachments/assets/eba26e9b-b29f-49f3-af71-408178a8cd5f' width='500px' height='400px'> <br>
+<img src='https://github.com/user-attachments/assets/eba26e9b-b29f-49f3-af71-408178a8cd5f' width='500px' height='400px'>
 Line Graph (R) <br>
 
 - [X] Suicide Rate with countries <br>
 The highest total number of suicides is the "Russian Federation". <br>
 
-<img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'> <br>
+<img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
 Bar Graph (R) <br>
  <br>
 <img src='https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235' width='650px' height='300px'>
@@ -42,9 +42,7 @@ Bar Graph (R) <br>
    
 In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age group, with blue representing males and pink for females. Each chart uses circles (1% each) to indicate the ratio, with annotations for clarity. A stacked bar graph further illustrates average suicide rates by sex and age. The data shows consistently higher suicide rates for males, peaking 81.45% in the 25-34 age group, while females have higher rates in the over 75 group, potentially due to longer life expectancy.  <br>
 
-<img src='https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca' width='500px' height='400px'> <br>
 ![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca)
-
 Waffle Charts and Bar Chart (Tableau)
 
 
