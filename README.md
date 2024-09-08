@@ -85,12 +85,11 @@ Line Graph (Tableau) <br>
 <img src='https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895' width='750px' height='300px'> 
 Bar Graph (Tableau) <br>
 
-![Picture2](https://github.com/user-attachments/assets/cb2c33a3-403d-4d49-931a-10eabc34821c)
+![Picture2](https://github.com/user-attachments/assets/cb2c33a3-403d-4d49-931a-10eabc34821c.gif)
 
 
 
 
-![image](https://github.com/user-attachments/assets/7b3d020e-99da-4009-9d0e-8b8ce63d2f9e)
 
 
 ### References 
