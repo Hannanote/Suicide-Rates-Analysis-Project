@@ -39,8 +39,8 @@ Bar Graph (R) <br>
 <br>
 These maps represent suicide rates with countries and age ranges. The relationship between suicide rates and age was examined in 6 age-bends 5-14 years, 15-24 years, 25-34 years, 35-54 years, 55-74 years and 75 + years.  There was a significant increase in suicide rates in 15-34 years generally, but all countries have the highest suicide rate in different age groups. There are few countries shown interesting patterns which is Russia, France, New Zealand, and South Korea. The Russia has the highest suicide rate all 6 age ranges around world. Both France and South Korea had high suicide rates in the 75+ age group. In New Zealand, there are high suicide rate between 15 and 27 years.  All these countries are included in the developed countries, but it does not mean the developed countries have the highest suicide rates around the world.  <br>
 <br>
-<img src='https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235' width='350px' height='100px'>
-<img src='https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057' width='350px' height='100px'>
+<img src='https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235' width='350px' height='200px'>
+<img src='https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057' width='350px' height='200px'>
 <img src='https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d' width='650px' height='300px'>
