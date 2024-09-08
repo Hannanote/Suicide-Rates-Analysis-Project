@@ -97,7 +97,7 @@ Line Graph (Tableau) <br>
 <br>
 <br>
 
--[X] Generational Suicide Rates: A Comparison of Male and Female Trends <br>
+- [X] Generational Suicide Rates: A Comparison of Male and Female Trends <br>
 
 This bar graph shows the suicide rates per 100,000 people across different generations for both men and women. The red bars represent the female suicide rates by generation, while the green bars represent the male rates. Both genders exhibit similar trends in suicide rates across generations. The G.I. Generation has the highest suicide rate, while Generation Z shows the lowest.<br>
 
@@ -107,6 +107,9 @@ The G.I. Generation’s higher suicide rate can be attributed to the hardships t
 Bar Graph (Tableau) <br>
 
 These analyses provide a deeper understanding of global suicide trends, revealing complex patterns by country, age group, and gender. This information could be crucial for developing targeted prevention strategies. <br>
+<br>
+<br>
+<br>
 
 ### Conclusion
 This analysis of global suicide trends reveals significant patterns across various demographics, including year, country, age, sex, and generation. From 1995 to 2015, there was a notable global decline in suicide rates, but recent trends suggest a potential return to pre-1990 levels. Countries like Russia, the United States, Japan, and South Korea consistently show high suicide rates, with specific patterns in certain age groups. For instance, Russia exhibits high rates across all age groups, while South Korea and France show increased rates in the 75+ age group.
@@ -116,7 +119,8 @@ Visualizing suicide rates by sex and age shows a consistent pattern: males have 
 The generational analysis provides further insights. The G.I. Generation (1901-1927), which experienced global upheavals like the Great Depression and both World Wars, has the highest suicide rate. In contrast, Generation Z (1997-2012) has the lowest suicide rate, potentially due to increased mental health awareness and preventive measures available to younger people. Nonetheless, it is important to acknowledge that Generation Z is still young, and their long-term trends will become clearer over time.
 
 In conclusion, the complexity of suicide rates underscores the importance of tailored, multifaceted prevention strategies. Understanding the interactions between age, gender, generational experiences, and societal context is key to developing more effective suicide prevention efforts. By continuing to analyze these trends and promote awareness, there is potential to further reduce global suicide rates and address this critical public health issue.<br>
-
+<br>
+<br>
 
 
 
