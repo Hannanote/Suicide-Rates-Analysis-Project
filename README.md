@@ -51,7 +51,7 @@ The choropleth map represents the suicide rate per 100K population by over age, 
 
 It helps people understand the relationship between suicide rate and age, over 75 years old according to the choropleth map. After visualizing the suicide rate by 6 age group in the exploratory analysis, the over 75 years age group shows extreme high suicide rate in both male and female groups. The male, over 75 years age group, is the highest suicide rate all age group, but interesting point is the female, over 75 years age group. Compared to other female age groups, this is enormous increased in 1990s. I think it is a good way to check this relationship by geographically because the geographical position is included in various factors such as economics or climate. The choropleth map is easy to see the highest suicide rate all countries in Eurasia continent and see the pattern of the suicide rate in the map. The highest countries are Russia, France, Hungry, and South Korea. There is not a significant pattern of this map that these countries were different economic level, in order to there are included in both the developed countries and developing countries. And there are no clear patterns of climate factor.  <br>
 
-<img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='300px'> <br>
+<img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='400px'> <br>
 
 ![image](https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1)
 
@@ -76,9 +76,10 @@ In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age gro
 ![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca)
 <br>Waffle Charts and Bar Chart (Tableau) <br>
 
-
+<img src='https://github.com/user-attachments/assets/dfd5006b-839e-4f13-8b3d-28f2db954f0f' width='750px' height='400px'> <br>
 ![image](https://github.com/user-attachments/assets/dfd5006b-839e-4f13-8b3d-28f2db954f0f)
 
+<img src='https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895' width='750px' height='400px'> <br>
 ![image](https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895)
 
 
