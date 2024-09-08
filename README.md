@@ -47,6 +47,7 @@ These maps represent suicide rates with countries and age ranges. The relationsh
 <img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='650px' height='300px'>
 
 ![map](https://github.com/user-attachments/assets/9e5a334b-3092-4f5f-b7e6-290c90840078)
+<img src='https://github.com/user-attachments/assets/9e5a334b-3092-4f5f-b7e6-290c90840078' width='650px' height='300px'>
 <br>
 <br>
 The choropleth map represents the suicide rate per 100K population by over age, over 75 years old in Eurasia continent. The suicide rate of each country in Eurasia continent is calculated by taking the average suicide rate per 100K population of country from 1985 to 2014. Each country is filled with red color and the saturation of the color shows the suicide rate in Eurasia continent.  The darker intensity represents the higher suicide rate in that country. 
