@@ -1,8 +1,8 @@
 ##  Global Suicide Rate Analysis Project
 
-전 세계적으로 매년 약 80만명이 자살을 하고 자살이 발생할 때마다 20건 이상의 자살 시도가 있습니다 (WHO, 2021). 자살은 전쟁이나 살인, 유방암보다 많은 희생자를 발생시키며 전 세계적으로 주요 사망 원인 중 하나가 되었습니다. 자살로 인한 사망률을 줄이기 위해 자살 위험을 식별하고 발생하지 않도록 방지하는것이 중요합니다. 그러나 자살은 다인자적 원인을 가진 드문 결과이기 때문에 자살을 방지하는 것은 어렵지만, 자살률에 대한 정보를 전파하고 사회에 대한 인식을 높이면 주변환경에 대해 더욱 주의하고 관심을 가질 수 있습니다. Tableau 소프트웨어를 활용해여 자살 정보가 포함 된 대시보드를 개발하고 그에 관한 정보를 분석하였습니다. 
+Every year, approximately 800,000 people worldwide die by suicide, and for every suicide, there are over 20 attempts (WHO, 2021). Suicide claims more lives than war, homicide, or breast cancer, making it one of the leading causes of death globally. Identifying those at risk and preventing suicide is crucial to reducing the death toll. However, preventing suicide is challenging because it is a complex, multifactorial issue with various contributing factors. Nevertheless, raising awareness about suicide and spreading information on suicide rates can lead to increased attention and concern within communities, prompting more care for those at risk.
 
-The suicide rates of various countries around the world between the years 1985 to 2016. Our visualizations aim to show the relationship between suicide rates and various factors that contribute to suicide, such as age, income rates, generational groups, and potentially climate and weather. We also plan to highlight the countries with the highest suicide rates.  Since suicide is a very sensitive topic and issue that has plagued society, visualizing general trends can lead to answers of suicide prevention. 
+Using Tableau software and R programming, we developed a dashboard that examines a combination of factors related to suicide and analyzed a wide range of variables. The data covers global suicide rates from 1985 to 2016, and our goal is to highlight the relationships between various factors such as age, gender, country, and year. Since suicide is a deeply sensitive and troubling issue that affects societies worldwide, visualizing general trends can provide valuable insights for suicide prevention efforts.
 
 The dataset contains 27,820 observations: 
 1. Country: 101 countries
@@ -44,9 +44,9 @@ These maps represent suicide rates with countries and age ranges. The relationsh
 <img src='https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235' width='350px' height='175px'>
 <img src='https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057' width='350px' height='175px'>
 <img src='https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650' width='350px' height='175px'>
-<img src='https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed' width='350px' height='185px'>
-<img src='https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d' width='350px' height='185px'>
-<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='350px' height='185px'>
+<img src='https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed' width='350px' height='175px'>
+<img src='https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d' width='350px' height='175px'>
+<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='350px' height='175px'>
 
 
 <br>
