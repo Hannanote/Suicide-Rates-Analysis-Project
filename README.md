@@ -41,9 +41,9 @@ These maps represent suicide rates with countries and age ranges. The relationsh
 <br>
 <img src='https://github.com/user-attachments/assets/9e5a334b-3092-4f5f-b7e6-290c90840078' width='650px' height='300px'>
 <br>
-<img src='https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235' width='350px' height='185px'>
-<img src='https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057' width='350px' height='185px'>
-<img src='https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650' width='350px' height='185px'>
+<img src='https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235' width='350px' height='175px'>
+<img src='https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057' width='350px' height='175px'>
+<img src='https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650' width='350px' height='175px'>
 <img src='https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed' width='350px' height='185px'>
 <img src='https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d' width='350px' height='185px'>
 <img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='350px' height='185px'>
