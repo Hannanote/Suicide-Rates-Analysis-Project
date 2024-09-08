@@ -28,21 +28,9 @@ Line Graph (R) <br>
 - [X] Suicide Rate with countries <br>
 The highest total number of suicides is the "Russian Federation". <br>
 
-<img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
+<img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'> <br>
 Bar Graph (R) <br>
-
-![image](https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235)
-
-![image](https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057)
-
-![image](https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650)
-
-![image](https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed)
-
-![image](https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d)
-
-![image](https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644) <br>
-
+ <br>
 <img src='https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650' width='650px' height='300px'>
@@ -54,7 +42,7 @@ Bar Graph (R) <br>
    
 In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age group, with blue representing males and pink for females. Each chart uses circles (1% each) to indicate the ratio, with annotations for clarity. A stacked bar graph further illustrates average suicide rates by sex and age. The data shows consistently higher suicide rates for males, peaking 81.45% in the 25-34 age group, while females have higher rates in the over 75 group, potentially due to longer life expectancy.  <br>
 
-<img src='https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca' width='500px' height='600px'>
+<img src='https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca' width='500px' height='400px'> <br>
 ![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca)
 
 Waffle Charts and Bar Chart (Tableau)
