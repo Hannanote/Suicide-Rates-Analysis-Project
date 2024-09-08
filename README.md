@@ -18,13 +18,14 @@ The dataset contains 27,820 observations:
 9. Economic Growth 
 
 ### Exploratory Analysis
-
+<br>
 - [X] Global Average Suicide Rate by year (per 100K population) <br>
 In 1995, the global suicide rate peaked at 15.3 deaths per 100,000 people. Over the next two devades, this rate steadily declinced, reaching 11.5 per 100,000 by 2015, marking a significant decrease of approximately 25%. However, recent trends suggest that suicide rates are now returning to levels observed before 1990s. Due to limited data from the 1980s, it remains difficult to determine whether the rates from that period were truly representative of the global population, complicating long-term trend analysis. <br>
 
 <img src='https://github.com/user-attachments/assets/eba26e9b-b29f-49f3-af71-408178a8cd5f' width='500px' height='400px'>
 Line Graph (R) <br>
-
+<br>
+<br>
 - [X] Suicide Rate with countries <br>
 The highest total number of suicides is the "Russian Federation". <br>
 
@@ -37,13 +38,14 @@ Bar Graph (R) <br>
 <img src='https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d' width='650px' height='300px'>
 <img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='650px' height='300px'>
-
+<br>
+<br>
 - [X] Sex and Age Group
    
 In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age group, with blue representing males and pink for females. Each chart uses circles (1% each) to indicate the ratio, with annotations for clarity. A stacked bar graph further illustrates average suicide rates by sex and age. The data shows consistently higher suicide rates for males, peaking 81.45% in the 25-34 age group, while females have higher rates in the over 75 group, potentially due to longer life expectancy.  <br>
 
 ![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca)
-Waffle Charts and Bar Chart (Tableau)
+                                                             Waffle Charts and Bar Chart (Tableau) <br>
 
 
 ![image](https://github.com/user-attachments/assets/bf66e519-e8cd-424f-afba-c77962eed0f2)
