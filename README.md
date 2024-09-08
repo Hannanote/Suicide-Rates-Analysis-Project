@@ -52,8 +52,8 @@ These visualizations also show the relationship between suicide rates and age ac
 <img src='https://github.com/user-attachments/assets/70ba5076-427e-4cee-ad1a-ddc52722e650' width='350px' height='175px'>
 <img src='https://github.com/user-attachments/assets/6c343e7d-ff73-4fc3-880a-505761f9ebed' width='350px' height='175px'>
 <img src='https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d' width='350px' height='175px'>
-<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='350px' height='175px'>
-
+<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='350px' height='175px'> <br>
+Choropleth Map (Tableau) <br>
 
 <br>
 <br>
@@ -61,7 +61,7 @@ These visualizations also show the relationship between suicide rates and age ac
 
 The choropleth map illustrates suicide rates among people over 75 years old across the Eurasian continent. The map displays the average suicide rate per 100,000 people in each country from 1985 to 2014. The saturation of red indicates the suicide rate, with darker shades representing higher rates. This map allows us to easily identify which countries in Eurasia have the highest suicide rates and discern patterns in the data. Notably, Russia, France, Hungary, and South Korea have the highest rates. While these countries vary in economic development and climate, no clear geographical or economic patterns emerge from the data. <br>
 
-<img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='400px'>
+<img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='400px'> <br>
 Choropleth Map (Tableau) <br>
 
 <br>
@@ -70,7 +70,7 @@ Choropleth Map (Tableau) <br>
 
 The mosaic plots display the suicide rates by age group across several countries in the Eurasian region, including Bulgaria, France, Germany, Hungary, Japan, South Korea, Russia, and Ukraine. Each country is divided into six age groups, each represented by a different color. The visualizations highlight that, across all countries, individuals over 75 years old have notably higher suicide rates, especially in Bulgaria and South Korea, where the rates are significantly high across all age groups. <br>
 
-<img src='https://github.com/user-attachments/assets/fb790d31-60bd-4ef1-9078-61e303075d2e' width='750px' height='400px'>
+<img src='https://github.com/user-attachments/assets/fb790d31-60bd-4ef1-9078-61e303075d2e' width='750px' height='400px'> <br>
 Mosaic Plots (Tableau) <br>
 
 <br>
@@ -82,7 +82,7 @@ Mosaic Plots (Tableau) <br>
 
 The six 10x10 waffle charts in Tableau illustrate the ratio of suicide rates by sex and age group. Blue represents males and pink represents females, with each circle corresponding to 1% of the total. Additionally, a stacked bar graph shows the average suicide rates by sex and age group. Males consistently exhibit higher suicide rates, with the highest rate of 81.45% occurring in the 25-34 age group. Interestingly, females show higher suicide rates in the 75+ age group, possibly due to longer life expectancy. <br>
 
-![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca)
+![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca) <br>
 <br>Waffle Charts and Bar Chart (Tableau) <br>
 
 <br>
@@ -91,7 +91,7 @@ The six 10x10 waffle charts in Tableau illustrate the ratio of suicide rates by 
 The line graph illustrates the global suicide rate per 100,000 population, broken down by age group and sex. The blue lines represent male suicide rates, while the red lines represent female rates across six distinct age groups. The graph reveals significant differences in suicide rates between genders and across age groups. Males consistently show higher suicide rates in nearly every age category, with the highest rates occurring in the 35-54 and 55-74 age groups. In contrast, female suicide rates remain lower, peaking in the 75+ age group. This visualization highlights the clear gender disparity in suicide rates, particularly in middle-aged and older male populations.
 <br>
 
-<img src='https://github.com/user-attachments/assets/dfd5006b-839e-4f13-8b3d-28f2db954f0f' width='750px' height='400px'>
+<img src='https://github.com/user-attachments/assets/dfd5006b-839e-4f13-8b3d-28f2db954f0f' width='750px' height='400px'> <br>
 Line Graph (Tableau) <br>
 <br>
 <br>
@@ -103,9 +103,11 @@ This bar graph shows the suicide rates per 100,000 people across different gener
 
 The G.I. Generation’s higher suicide rate can be attributed to the hardships they experienced, including living through the Great Depression and both World Wars, which likely contributed to long-term mental health challenges. On the other hand, Generation Z has the lowest suicide rate, possibly due to advancements in mental health awareness and resources, as well as early intervention strategies that may have helped reduce the risk of suicide among younger populations. However, it's important to note that Generation Z's data may also be incomplete, as they represent the youngest cohort in this analysis.<br>
 
-<img src='https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895' width='750px' height='300px'> 
+<img src='https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895' width='750px' height='300px'> <br>
 Bar Graph (Tableau) <br>
 
+<br>
+<br>
 These analyses provide a deeper understanding of global suicide trends, revealing complex patterns by country, age group, and gender. This information could be crucial for developing targeted prevention strategies. <br>
 <br>
 <br>
