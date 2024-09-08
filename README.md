@@ -1,6 +1,5 @@
 ##  Global Suicide Rate Analysis Project
 
-![gif](https://github.com/user-attachments/assets/01326f72-9ff9-4603-a475-ef352ef2750e.gif) <br>
 전 세계적으로 매년 약 80만명이 자살을 하고 자살이 발생할 때마다 20건 이상의 자살 시도가 있습니다 (WHO, 2021). 자살은 전쟁이나 살인, 유방암보다 많은 희생자를 발생시키며 전 세계적으로 주요 사망 원인 중 하나가 되었습니다. 자살로 인한 사망률을 줄이기 위해 자살 위험을 식별하고 발생하지 않도록 방지하는것이 중요합니다. 그러나 자살은 다인자적 원인을 가진 드문 결과이기 때문에 자살을 방지하는 것은 어렵지만, 자살률에 대한 정보를 전파하고 사회에 대한 인식을 높이면 주변환경에 대해 더욱 주의하고 관심을 가질 수 있습니다. Tableau 소프트웨어를 활용해여 자살 정보가 포함 된 대시보드를 개발하고 그에 관한 정보를 분석하였습니다. 
 
 The suicide rates of various countries around the world between the years 1985 to 2016. Our visualizations aim to show the relationship between suicide rates and various factors that contribute to suicide, such as age, income rates, generational groups, and potentially climate and weather. We also plan to highlight the countries with the highest suicide rates.  Since suicide is a very sensitive topic and issue that has plagued society, visualizing general trends can lead to answers of suicide prevention. 
@@ -88,7 +87,9 @@ Bar Graph (Tableau) <br>
 
 ![Picture2](https://github.com/user-attachments/assets/cb2c33a3-403d-4d49-931a-10eabc34821c.gif)
 
+![Picture2](https://github.com/user-attachments/assets/ce2767a0-8e4e-4a0c-bde7-e0b857763a6b)
 
+<img src="https://user-images.githubusercontent.com/ce2767a0-8e4e-4a0c-bde7-e0b857763a6b.gif" width="200" />
 
 
 
