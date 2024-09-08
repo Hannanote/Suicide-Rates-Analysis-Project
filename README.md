@@ -38,8 +38,9 @@ Bar Graph (R) <br>
 
 ![image](https://github.com/user-attachments/assets/2b1f7b56-99b9-432d-bbca-bc0b588bf79d)
 
-![image](https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644)
-<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='100' height='100/>
+![image](https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644) <br>
+
+<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='100px' height='100px'>
 
 - [] Sex and Age Group
    
