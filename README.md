@@ -32,11 +32,13 @@ The highest total number of suicides is the "Russian Federation". <br>
 <img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
 Bar Graph (R) <br>
 
-![image](https://github.com/user-attachments/assets/fb790d31-60bd-4ef1-9078-61e303075d2e)
-Mosaic Plots (Tableau) <br>
 The mosaic plots show the suicide rate by age group in different countries, Bulgaria, France, Germany, Hungary, Japan, South Korea, Russia, and Ukraine from 1985 to 2014. There are 6 age groups shown with 6 different colors, which is 5-14 for blue color, 15-24 for orange color, 25-34 for sky blue color, 35-54 for red color, 55-74 for green color, and 75+ for yellow color. These age groups of a country use percentage total so that all groups divide up proportionally. To contrast the difference between age groups, 6 colors are placed opposite side of the color bar.
 
-It represents the suicide rate of different age groups in different countries in Eurasia continent. In dataset, some countries have high numbers of suicide such as Russia, Japan, France, Germany, and Ukraine. Although Unities States and Brazil are proportionally high, there are some countries, especially Eurasia continent countries, are significantly high proportion of suicide rate.  The plots show only 6 countries, Bulgaria, France, Germany, Hungary, Japan, South Korea, Russia, and Ukraine about the suicide rate in different age groups. The plots display in common thing is that there are significant high rates of people who are over 75 years old. Especially Bulgaria and South Korea are remarkably high portion of the suicide rate in all age groups. 
+It represents the suicide rate of different age groups in different countries in Eurasia continent. In dataset, some countries have high numbers of suicide such as Russia, Japan, France, Germany, and Ukraine. Although Unities States and Brazil are proportionally high, there are some countries, especially Eurasia continent countries, are significantly high proportion of suicide rate.  The plots show only 6 countries, Bulgaria, France, Germany, Hungary, Japan, South Korea, Russia, and Ukraine about the suicide rate in different age groups. The plots display in common thing is that there are significant high rates of people who are over 75 years old. Especially Bulgaria and South Korea are remarkably high portion of the suicide rate in all age groups. <br>
+
+<img src='https://github.com/user-attachments/assets/fb790d31-60bd-4ef1-9078-61e303075d2e' width='600px' height='500px'>
+![image](https://github.com/user-attachments/assets/fb790d31-60bd-4ef1-9078-61e303075d2e)
+Mosaic Plots (Tableau) <br>
 
 <br>
 <br>
