@@ -11,12 +11,12 @@ The dataset contains 27,820 observations:
 4. Age: Categorized into 6 groups ('5-14', '15-24', '25-34', '35-54', '55-74', '75+')
 5. Suicide Rate per 100k Population
 6. GDP per Capita
-7. Generation: G.I Generation is from 1901 – 1927;
-               Silent Generation is from 1928 – 1945;
-               Boomer Generation is from 1946 – 1964;
-               X Generation is from 1965 – 1980;
-               Millennials Generation is from 1981 – 1996;
-               and Z Generation is from 1997 – 2012. 
+7. Generation: G.I Generation is from 1901 – 1927; <br>
+               Silent Generation is from 1928 – 1945; <br>
+               Boomer Generation is from 1946 – 1964; <br>
+               X Generation is from 1965 – 1980; <br> 
+               Millennials Generation is from 1981 – 1996; <br>
+               and Z Generation is from 1997 – 2012.
 9. Economic Growth 
 
 ### Exploratory Analysis
@@ -51,7 +51,7 @@ The choropleth map represents the suicide rate per 100K population by over age, 
 
 It helps people understand the relationship between suicide rate and age, over 75 years old according to the choropleth map. After visualizing the suicide rate by 6 age group in the exploratory analysis, the over 75 years age group shows extreme high suicide rate in both male and female groups. The male, over 75 years age group, is the highest suicide rate all age group, but interesting point is the female, over 75 years age group. Compared to other female age groups, this is enormous increased in 1990s. I think it is a good way to check this relationship by geographically because the geographical position is included in various factors such as economics or climate. The choropleth map is easy to see the highest suicide rate all countries in Eurasia continent and see the pattern of the suicide rate in the map. The highest countries are Russia, France, Hungry, and South Korea. There is not a significant pattern of this map that these countries were different economic level, in order to there are included in both the developed countries and developing countries. And there are no clear patterns of climate factor.  <br>
 
-<img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='400px'> <br>
+<img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='400px'>
 Choropleth Map (Tableau) <br>
 
 <br>
@@ -75,6 +75,10 @@ In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age gro
 ![image](https://github.com/user-attachments/assets/c18b601a-b179-4473-94e7-da64a5f216ca)
 <br>Waffle Charts and Bar Chart (Tableau) <br>
 
+<br>
+This visual is created the average of suicide per 100K in population by age. There are 6 age groups and divided by sex. The blue lines represent the male age group, and the red lines show the female age group. Each age group tells significant differences suicide rate so that it is a good one to make narrow to focus on.
+<br>
+
 <img src='https://github.com/user-attachments/assets/dfd5006b-839e-4f13-8b3d-28f2db954f0f' width='750px' height='400px'>
 Line Graph (Tableau) <br>
 
@@ -84,7 +88,7 @@ Bar Graph (Tableau) <br>
 
 
 
-![image](https://github.com/user-attachments/assets/7b3d020e-99da-4009-9d0e-8b8ce63d2f9e)
+![image](https://github.com/user-attachments/assets/7b3d020e-99da-4009-9d0e-8b8ce63d2f9e.gif)
 
 
 ### References 
