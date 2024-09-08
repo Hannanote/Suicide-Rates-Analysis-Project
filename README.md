@@ -19,7 +19,7 @@ The dataset contains 27,820 observations:
 
 ### Exploratory Analysis
 
-- [] Global Average Suicide Rate by year (per 100K population)
+-[x] Global Average Suicide Rate by year (per 100K population)
 
 In 1995, the global suicide rate peaked at 15.3 deaths per 100,000 people. Over the next two devades, this rate steadily declinced, reaching 11.5 per 100,000 by 2015, marking a significant decrease of approximately 25%. However, recent trends suggest that suicide rates are now returning to levels observed before 1990s. Due to limited data from the 1980s, it remains difficult to determine whether the rates from that period were truly representative of the global population, complicating long-term trend analysis.
 ![c28b4417-91f0-47ec-a0ea-4ee10eb78591](https://github.com/user-attachments/assets/eba26e9b-b29f-49f3-af71-408178a8cd5f)
