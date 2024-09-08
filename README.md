@@ -53,8 +53,6 @@ It helps people understand the relationship between suicide rate and age, over 7
 
 <img src='https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1' width='650px' height='400px'> <br>
 
-![image](https://github.com/user-attachments/assets/bbce09cc-a739-4c98-9094-12eeb201a6d1)
-
 <br>
 <br>
 The mosaic plots show the suicide rate by age group in different countries, Bulgaria, France, Germany, Hungary, Japan, South Korea, Russia, and Ukraine from 1985 to 2014. There are 6 age groups shown with 6 different colors, which is 5-14 for blue color, 15-24 for orange color, 25-34 for sky blue color, 35-54 for red color, 55-74 for green color, and 75+ for yellow color. These age groups of a country use percentage total so that all groups divide up proportionally. To contrast the difference between age groups, 6 colors are placed opposite side of the color bar.
@@ -77,9 +75,8 @@ In Tableau, six 10x10 waffle charts shows suicide rate ratios by sex and age gro
 <br>Waffle Charts and Bar Chart (Tableau) <br>
 
 <img src='https://github.com/user-attachments/assets/dfd5006b-839e-4f13-8b3d-28f2db954f0f' width='750px' height='400px'> <br>
-![image](https://github.com/user-attachments/assets/dfd5006b-839e-4f13-8b3d-28f2db954f0f)
 
-<img src='https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895' width='750px' height='400px'> <br>
+<img src='https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895' width='750px' height='300px'> <br>
 ![image](https://github.com/user-attachments/assets/c75011f0-f708-4d20-9990-68bafb1d3895)
 
 
