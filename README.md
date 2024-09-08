@@ -29,6 +29,7 @@ Line Graph (R) <br>
 The highest total number of suicides is the "Russian Federation".
 ![download](https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c)
 Bar Graph (R) <br>
+<img src='https://github.com/user-attachments/assets/1faebf83-492c-4d23-8eaf-6cc43b277e3c' width='500px' height='400px'>
 ![image](https://github.com/user-attachments/assets/c94caddc-a45c-4421-9450-e12cf9288235)
 
 ![image](https://github.com/user-attachments/assets/89e7e5f7-97f7-4560-8718-ef85a4201057)
@@ -41,7 +42,7 @@ Bar Graph (R) <br>
 
 ![image](https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644) <br>
 
-<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='700px' height='600px'>
+<img src='https://github.com/user-attachments/assets/fb5afd1e-c887-4271-b901-2a81d548d644' width='600px' height='700px'>
 
 - [] Sex and Age Group
    
